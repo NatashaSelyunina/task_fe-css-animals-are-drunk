@@ -20,16 +20,22 @@ h2 {
     position: sticky;
 }
 
+.bald-idea {
+    color: rgb(210, 35, 67);
+    font-style: italic;
+    font-size: 20px;
+}
+
 #panda {
     height: 200px;
     width: 300px;
     background-color: aqua;
+    display: block;
     margin: 0 auto;
-    
 }
 
 h3 {
-    color: red;
+    color: rgb(65, 32, 215);
     text-decoration: underline;
 }
 
